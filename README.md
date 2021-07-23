@@ -18,4 +18,4 @@ Follow these instructions to see changes made to files:
 
 6. Changed the header size in the footer.
 
-7. Horray!
+7. Fixed broken link in nav bar.
