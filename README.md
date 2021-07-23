@@ -17,3 +17,5 @@ Follow these instructions to see changes made to files:
 5. Class and element names were changed to reflect changes made to elements in HTML.
 
 6. Changed the header size in the footer.
+
+7. Horray!
